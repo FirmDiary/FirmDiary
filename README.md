@@ -39,5 +39,5 @@ I am currently expanding my backend stack with Go, improving my German language 
 
 ## Contact
 
-Email: zhaozewu555@gmail.com  
+Email: adriandev555@gmail.com
 LinkedIn: ...
